@@ -1,6 +1,6 @@
 ## Preview
 
-This is the frontend of IS4302 project - Blockchain Integrated Claims Systems.
+This is the React frontend of IS4302 project - Blockchain Integrated Claims Systems.
 
 ## Quick Start
 
