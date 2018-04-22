@@ -57,7 +57,7 @@ class Register extends Component {
       <MuiThemeProvider>
       <Page title="Register">
       <Row>
-        <Col xl={6} lg={12} md={12}>
+        <Col xl={12} lg={12} md={12}>
           <Card>
             <CardBody>
               <Form onSubmit={this.handleSubmit}>

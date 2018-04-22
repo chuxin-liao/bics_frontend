@@ -150,6 +150,7 @@ class App extends React.Component {
     var start = (
                 <switch>
                 <Route path="/login" render={()=><Login openSidebar={this.openSidebar.bind(this)} setLogin={this.setLoginStatus.bind(this)}/>}/>
+                <Route path="/register" component={Register} />
                 <Redirect to="/login" />
                 </switch>);
     var r = this.state.login ? routes : start;

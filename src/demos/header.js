@@ -14,7 +14,7 @@ export const notificationsData = [
   {
     id: 3,
     avatar: '/img/users/100_4.jpg',
-    message: 'Proposal 85006 was approved by Chuxin',
+    message: 'Proposal 85006 was approved by Computing',
     date: 'yesterday',
   },
   {
